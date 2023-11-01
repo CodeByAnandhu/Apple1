@@ -1,0 +1,310 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+  
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Poppins";
+
+}
+.logo{
+
+   padding: 17px;
+   position: absolute;
+   left: 289px;
+   display: inline-block;
+   justify-content: center;
+  
+
+}
+.navcn {
+     padding: 20px;
+     margin: 0 300px;
+     justify-content: center;
+     justify-content: space-evenly;
+     display: flex;
+     font-size: 15px
+   
+    
+}
+.store {
+   
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.store:hover{
+    background-color: #1f11111a;
+    color: rgb(0, 0, 0);
+}
+.mac {
+   
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.mac:hover{
+    background-color: #1f11111a;
+    color: rgb(0, 0, 0);
+}
+.ipad {
+    
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.ipad:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.iphone {
+    
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.iphone:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.watch {
+    
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.watch:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.airpod {
+    
+    border-radius: 10px;
+    transition:background-color 0.60s ;
+}
+.airpod:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.tvhome {
+    
+    border-radius: 10px;
+    transition:background-color 0.60s ;
+}
+.tvhome:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.entertainment {
+    
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.entertainment:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+.asccessory {
+    
+    border-radius: 12px;
+    transition:background-color 0.60s ;
+}
+.asccessory:hover{
+    background-color: #0000001d;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+.border{
+
+    background-color: rgba(0, 0, 0, 0.068);
+
+}
+
+.navcn i{
+
+   padding-left: 30px;
+}
+p{
+    font-size: 15px;
+    padding-left: 300px;
+    letter-spacing: 0.1px;
+    padding-top: 20px;
+    color: #f0e3ca;
+    background-color: #1c2739;
+   padding-right: 300px;
+   padding-bottom: 15px;
+    
+}
+.iphone15 img{
+    
+    padding-left: 650px;
+    padding-top: 40px;
+    
+    
+}
+
+.iphone15{
+
+    background-color: black;
+    padding-bottom: 90px;
+}
+.titanium img{
+
+    border: 40px;
+    padding-left: 590px;
+    padding-top: 10px;
+    
+}
+.pro img{
+
+    border: 100px;
+    padding-left: 440px;
+    background-color: black;
+    padding-bottom: 150px;
+    
+    
+    
+}
+ h3{
+
+    font-size: 30px;
+    color: white;
+   
+   
+}
+.i15 img{
+    
+    padding-left: 526px;
+    margin: 50px;
+    height: 20px;
+    
+}
+
+.mid2{
+
+    background-color: white;
+    
+}
+
+ h1 {
+    
+ margin-left: 500px;
+ margin-bottom: 20px;
+ font-weight: bold;
+ 
+ 
+}
+
+.blue{
+    
+   left: 50%;
+   margin-left: -360px;
+   
+}
+.cnelement{
+    
+    margin-left: 390px;
+
+}
+
+.cnelement h1 {
+    
+    padding: 20px;
+    margin: 16px;
+    padding-top: 20px;
+    display: inline-block;
+     font-family: Arial, Helvetica, sans-serif;
+    color:rgba(59, 59, 167, 0.9)
+}
+.iphoneSe{
+
+    margin-top: 220px;
+    margin-top: 0px;
+    background-color: white;
+   
+   
+}
+.video{
+
+    
+    width: 1520px; 
+  height: 700px; 
+  overflow: hidden; 
+  
+}
+
+.text2{
+
+    width: 1520px;
+    height: 700px;
+    position: relative;
+}
+
+.cv{
+
+    margin-top: 150px;
+    font-size: 50px;
+    margin-left: 370px;
+
+}
+
+.phone22{
+  
+    margin-left: 850px;
+    margin-right: 630px;
+    margin-top: 12px;
+    position: relative;
+    top: 80px;
+}
+.phone23{
+
+    margin-top: -260px; 
+    transform: scale(0.6);
+    margin-left: 350px;
+    display: inline-block;
+}
+.textphone{
+
+    color: black;
+    background-color: #020202;
+    display: inline-block;
+    
+    display: flex;
+    align-items: center;
+
+}
+.textphone .SPACE{
+
+    margin:  20px;
+    margin-left: 422px;
+   
+}
+.SPACE2{
+
+    margin-left: 250px;
+    
+}
+.iphonegp{
+  
+    margin-top: -70px;
+    text-align: center;
+    width: -100px;
+   
+    
+}
+.footer{
+
+    height: auto;
+    width: 100%;
+}
+.footer h3 {
+   padding-right: 20px;
+}
+.ftbottom{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
